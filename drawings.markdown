@@ -5,6 +5,7 @@ permalink: /drawings/
 ---
 <details>
     <summary>2025</summary>
+    <img src="{{ site.baseurl }}/assets/drawings/2025-inverno-lettering.jpg" alt="2025-inverno-lettering" width="600vh"/>
     <img src="{{ site.baseurl }}/assets/drawings/2025-verao-free-palestine.jpg" alt="2025-verao-free-palestine" width="600vh"/>
     <img src="{{ site.baseurl }}/assets/drawings/tavarisch-chan.png" alt="tavarisch-chan" width="600vh"/>
 </details>
